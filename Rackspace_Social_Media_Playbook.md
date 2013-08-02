@@ -12,16 +12,15 @@ Well, that is true, but you should have (and Rackspace has) a few guidelines, th
 
 1. Be as helpful as possible. We were all beginners at one point, and "RTFM" and "man strace" were neither helpful nor constructive answers. If that's all you have to contribute, stop and get help, or refer it to help@rackspace.com. Be kind, constructive, and informative in your responses. 
     * **Remember**: It doesn't cost anything to give the other person the benefit of the doubt.
-    
-2. Let everyone know you are a Racker. We should be proud to work here and we never want it to look like we are hiding our affiliation.
 
+2. Let everyone know you are a Racker. We should be proud to work here and we never want it to look like we are hiding our affiliation.
     * Great service (you know, what we sell) is a team effort anyway, so publicizing your relationship with Rackspace will also allow you - if necessary - to call in Racker reinforcements without confusing the public.
 
 3. Be yourself: do what you love and do it well. If you want to host the worlds largest dubstep (we don't judge) fan site, do it like *you mean it*.
     * However, don't let your passion turn you into a raving jerk. It is easy to get caught up in a debate, be the better human, it works out in the long term.
     * If you can't let something go, be persuasive with substance, not combative. Walk away, think about it for a while.
     * **Remember**: While a customer or user's perception may be subjective, it’s still very real and should be respected.
-    
+
 4. Be a useful part of the conversation. Let's avoid arguing with people and instead provide well thought out constructive suggestions (with references if possible).
 
     * Don't let your desire to help mean you accidentally divulge trade secrets or commit to performance promises. Any specific numbers/processes that could be useful to the community should be whipped up into a blog post but we should be careful to vet this information with the help of other Rackers: the social media team at @Rackspace or help@rackspace.com would be delighted to help for articles headed to the official Rackspace blog; likewise, the DevOps blog editors are champing at the bit to steward your technical articles out to the world.  *We want to help you let everyone know how cool the stuff you do is, and we don't want legal to get angry/sad at any of us.*
@@ -35,7 +34,6 @@ Well, that is true, but you should have (and Rackspace has) a few guidelines, th
 8. Avoid mentioning our stock or using "RAX" in anything public since it is our stock ticker symbol. Legally speaking, what you can or can't talk about becomes a gray area pretty quickly and what is or isn't public and how people will take what you say is never a certain thing. It could be a huge headache for everyone involved. Not talking about the stock is really the best course of action for everyone - RackLaw is busy enough fighting patent trolls: The last thing they want to do is to deal with a call from the SEC.
 
 9. If a competitor is experiencing an outage, leave it alone - don't taunt them or tell the world how great we are - our promoters always go to bat for us. We get angry when people poke at us and try to steal customers during outages, so we shouldn't do it either. We need to be the example of professionalism when it comes to scenarios like this, otherwise it will bite us in the ass when we have an outage.
- 
     * This goes for outages but it also applies to open source contributions by other companies.  Another company might open source a project that we disagree with for some reason (poor performance, terrible security, unmaintainable code) but there are many ways to approach it to be constructive rather than condescending/argumentative.
 
 10. "Oops, this looks bad." If a situation arises that you don't know how to handle or you think you might have just done something terrible, let our friends on the Social Support team help - DM @Rackspace on Twitter or email help@rackspace.com right away. Getting in front of something or having a little guidance is good for all of us (the Social Support team literally watches social networks 24 hours a day).
