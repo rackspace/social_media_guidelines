@@ -22,7 +22,6 @@ Well, that is true, but you should have (and Rackspace has) a few guidelines, th
     * **Remember**: While a customer or user's perception may be subjective, it’s still very real and should be respected.
 
 4. Be a useful part of the conversation. Let's avoid arguing with people and instead provide well thought out constructive suggestions (with references if possible).
-
     * Don't let your desire to help mean you accidentally divulge trade secrets or commit to performance promises. Any specific numbers/processes that could be useful to the community should be whipped up into a blog post but we should be careful to vet this information with the help of other Rackers: the social media team at @Rackspace or help@rackspace.com would be delighted to help for articles headed to the official Rackspace blog; likewise, the DevOps blog editors are champing at the bit to steward your technical articles out to the world.  *We want to help you let everyone know how cool the stuff you do is, and we don't want legal to get angry/sad at any of us.*
     
 5. Agree to disagree. Sure, winning an argument/proving that you're right might give you an ego-boost, but it doesn't mean you won't come off looking like a jerk. Invite folks to a private conversation and agree to disagree if you must. Nobody likes arrogance or condescension. Except trolls. *Don't be a troll*.
