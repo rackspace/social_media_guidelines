@@ -26,9 +26,9 @@ We've categorized these into two buckets: **Racker Values** and **Hard and fast 
 4. **Racker Values**: Be a useful part of the conversation. Let's avoid arguing with people and instead provide well thought out constructive suggestions (with references if possible).
     * **Hard and fast rule**: Don't let your desire to help mean you accidentally divulge trade secrets or commit to performance promises. Any specific numbers/processes that could be useful to the community should be whipped up into a blog post but we should be careful to vet this information with the help of other Rackers: the social media team at @Rackspace or help@rackspace.com would be delighted to help for articles headed to the official Rackspace blog; likewise, the DevOps blog editors are champing at the bit to steward your technical articles out to the world.  *We want to help you let everyone know how cool the stuff you do is, and we don't want legal to get angry/sad at any of us.*
     
-5. Agree to disagree. Sure, winning an argument/proving that you're right might give you an ego-boost, but it doesn't mean you won't come off looking like a jerk. Invite folks to a private conversation and agree to disagree if you must. Nobody likes arrogance or condescension. Except trolls. *Don't be a troll*.
+5. **Racker Values**: Agree to disagree. Sure, winning an argument/proving that you're right might give you an ego-boost, but it doesn't mean you won't come off looking like a jerk. Invite folks to a private conversation and agree to disagree if you must. Nobody likes arrogance or condescension. Except trolls. *Don't be a troll*.
 
-6. Be willing to be admit when you're wrong. None of us are perfect - owning up to mistakes will give you more credibility, and people will value your opinion more.
+6. **Racker Values**: Be willing to be admit when you're wrong. None of us are perfect - owning up to mistakes will give you more credibility, and people will value your opinion more.
 
 7. **Hard and fast rule**: Along those lines (not divulging trade secrets or committing to performance promises), please never talk about customers or partners unless you are certain it is public information already and even then triple check it, that could go terribly for us if we slip up (help@rackspace.com is your **friend** - ask them - they probably have the answer).
 
@@ -51,7 +51,7 @@ We've categorized these into two buckets: **Racker Values** and **Hard and fast 
 * Don't be a jerk. 
 * Be helpful.
   * Not everyone gets tech like you do.
-  * Don't talk about stock or trade secrets. 
+  * Don't talk about stock or trade secrets. Seriously.
   * Do what you love as publicly as you want, you are building your own name after all and we want to help. 
   * We want *you* to share, blog, and help make the world a better place.
 * Think before you post.
