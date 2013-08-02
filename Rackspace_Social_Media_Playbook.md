@@ -14,7 +14,7 @@ Well, that is true, but you should have (and Rackspace has) a few guidelines, th
     * **Remember**: It doesn't cost anything to give the other person the benefit of the doubt.
 
 2. Let everyone know you are a Racker. We should be proud to work here and we never want it to look like we are hiding our affiliation.
-    * Great service (you know, what we sell) is a team effort anyway, so publicizing your relationship with Rackspace will also allow you - if necessary - to call in Racker reinforcements without confusing the public.
+    * Fanatical Support (you know, what we sell) is a team effort anyway, so publicizing your relationship with Rackspace will also allow you - if necessary - to call in Racker reinforcements without confusing the public.
 
 3. Be yourself: do what you love and do it well. If you want to host the worlds largest dubstep (we don't judge) fan site, do it like *you mean it*.
     * However, don't let your passion turn you into a raving jerk. It is easy to get caught up in a debate, be the better human, it works out in the long term.
@@ -43,9 +43,7 @@ Well, that is true, but you should have (and Rackspace has) a few guidelines, th
 
 13. Get out there and be public. **You make your own name**. Rackspace can give you the environment, support, and tools to do amazing things but it is up to you to put them to use and share that experience with the world. It helps us all when you get out there and have a positive impact in communities and user groups. Never be afraid to interact - just be mindful of how you do it and ask for help when you need it.
 
-#### LAST BUT NOT LEAST:
-
-14. Think before you tweet or post. Have some situational awareness - before posting a picture to instagram of your awesome team outing at the bar, think about how that could be perceived by customers who are in the middle of a crisis. Outages aren't only widespread things that affect all customers, but also include isolated problems that affect only a handful of customers, which are just as real and disruptive. The last thing they want to see or hear about is your awesome offsite during a disruption.
+14. **Last but not least**: Think before you tweet or post. Have some situational awareness - before posting a picture to instagram of your awesome team outing at the bar, think about how that could be perceived by customers who are in the middle of a crisis. Outages aren't only widespread things that affect all customers, but also include isolated problems that affect only a handful of customers, which are just as real and disruptive. The last thing they want to see or hear about is your awesome offsite during a disruption.
  
 ### tl;dr
 * Don't be a jerk. 
