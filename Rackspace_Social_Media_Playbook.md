@@ -10,7 +10,7 @@ When we say "social media" - don't cringe; we mean reddit, twitter, Facebook, go
 
 Well, that is true, but you should have (and Rackspace has) a few guidelines, that when applied will make it a lot easier for everyone involved (the public, fellow Rackers, the SEC). We want you to be shown in the best light possible. When you look good, Rackspace looks good.
 
-We've categorized these into two buckets: "**Racker Values**" and "**Hard and fast rule**" - hard and fast rules mean that all of us will have legal problems, and potentially run afoul of the SEC. Racker Values are tied to our core values and represent the values and ideals we wish to present to the world.
+We've categorized these into two buckets: **Racker Values** and **Hard and fast rule** - hard and fast rules mean that all of us will have legal problems, and potentially run afoul of the SEC. Racker Values are tied to our core values and represent the values and ideals we wish to present to the world.
 
 1. **Racker Values**: Be as helpful as possible. We were all beginners at one point, and "RTFM" and "man strace" were neither helpful nor constructive answers. If that's all you have to contribute, stop and get help, or refer it to help@rackspace.com. Be kind, constructive, and informative in your responses. 
     * **Remember**: It doesn't cost anything to give the other person the benefit of the doubt.
