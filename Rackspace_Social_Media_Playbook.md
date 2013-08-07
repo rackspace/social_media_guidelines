@@ -61,23 +61,23 @@ We've categorized these into two buckets: **Racker Values** and **Hard and Fast 
 
    None of us are perfect. Owning up to mistakes will give you more credibility and people will value your opinion more.
 
-8 "Oops, this looks bad."
+8. "Oops, this looks bad."
 
    If a situation arises that you don't know how to handle or you think you might have just done something terrible, let our friends on the Social Support team help - DM @Rackspace on Twitter or email help@rackspace.com right away. Getting in front of something or having a little guidance is good for all of us (the Social Support team literally watches social networks 24 hours a day).
 
-11. Share information and ideas and ask for help.
+9. Share information and ideas and ask for help.
 
    We all curate lists of friends with great skill sets - use those relationships and reciprocate in kind. If you are having a problem that can be abstracted not to give away any specific secret information, talk about it and find the best solution.
 
-12. Don't "astroturfing".
+10. Don't "astroturf".
 
    We actively discourage all forms "astroturfing" online. Do not up vote, retweet, +1, like, etc. in online forums unless you - as a Racker and individual - find that the material is of merit, interest and value.
 
-13. Get out there and be public. 
+11. Get out there and be public.
 
    *You make your own name*. Rackspace can give you the environment, support, and tools to do amazing things but it is up to you to put them to use and share that experience with the world. It helps us all when you get out there and have a positive impact in communities and user groups. Never be afraid to interact - just be mindful of how you do it and ask for help when you need it.
 
-14. Think before you tweet or post. 
+12. Think before you tweet or post.
 
    Have some situational awareness - before posting a picture to instagram of your awesome team outing at the bar, think about how that could be perceived by customers who are in the middle of a crisis. Outages aren't just widespread things that affect all customers. They can also include isolated problems that affect a handful of customers, which are just as real and disruptive. The last thing they want to see or hear about is your awesome outing during a disruption.
 
