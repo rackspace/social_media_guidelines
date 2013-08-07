@@ -1,4 +1,5 @@
 # Rackspace Social Media Playbook & Guide
+Rackspace Simple Social Media Guide for Engineers, Rackers and the world!
 
 We want Rackers to publicly share their awesome stories and skills. We want your experiences in devops, tales of MacGyver-esque engineering, info about little known cool new features we've deployed to production, your contribution to awesome open source work or anything you can think of. We want to increase external communication and collaboration and we need you to be involved.
 
