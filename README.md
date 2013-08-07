@@ -1,4 +1,1 @@
-Rackspace Social Media Playbook & Guide
-===================
-
-Rackspace Simple Social Media Guide for Engineers, Rackers and the world!
+Rackspace_Social_Media_Playbook.md
