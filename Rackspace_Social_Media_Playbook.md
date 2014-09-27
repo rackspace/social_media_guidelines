@@ -113,7 +113,7 @@ Rules**.
 
 6. *Don't be a troll.*
 
-7. Be willing to be admit when you're wrong.
+7. Be willing to admit when you're wrong.
 
    None of us are perfect. Owning up to mistakes will give you more credibility
    and people will value your opinion more.
