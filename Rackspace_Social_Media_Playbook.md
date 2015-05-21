@@ -7,7 +7,7 @@ little known cool new features we've deployed to production, your contribution
 to awesome open source work or anything you can think of. We want to increase
 external communication and collaboration and we need you to be involved.
 
-When we say "social media" we mean Reddit, Twitter, Facebook, Google+, Stack
+When we say "social media" we mean Reddit, Twitter, Facebook, Instagram, Google+, Stack
 Overflow, etc. We've released this guidebook for *you* and the community as a
 whole: changes, updates and feedback are always welcome.
 
@@ -32,8 +32,8 @@ Rules**.
 1. Avoid mentioning our stock or using *RAX* in anything public.
 
    Since *RAX* is our stock ticker symbol, legally speaking, what you can or
-   can't talk about becomes a gray area pretty quickly. What is or isn't public
-   and how people will take what you say is never a certain thing; it could be
+   can't talk about becomes a gray area pretty quickly (even if your profile is private). 
+   What is or isn't public and how people will take what you say is never a certain thing; it could be
    a huge headache for everyone involved. Not talking about the stock is really
    the best course of action for everyone. RackLaw is busy enough fighting
    patent trolls and the last thing they want to do is to deal with a call from
@@ -162,7 +162,7 @@ Rules**.
 
 ### Legal Stuff:
 
-* Copyright 2012-2014 Rackspace, Inc.
+* Copyright 2012-2015 Rackspace US, Inc.
 * This work is licensed under the Creative Commons Attribution 3.0 Unported
   License. Please share, remix and adopt.
 * Pull requests **always** welcome.
